@@ -1,3 +1,5 @@
+
+Hello this is my first time to write in the read me. I will use anki to check how it work, thank you  😎 IF want to collaborate then you also create copy fork i will also learning together 😀
 <p align="center">
 <img alt="" src="docs/graphics/logos/banner_readme.png"/>
 </p>
